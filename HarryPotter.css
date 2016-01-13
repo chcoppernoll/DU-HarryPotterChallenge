@@ -1,0 +1,7 @@
+#input{
+	display: table-row;
+}
+
+select{
+	display: table-cell;
+}
